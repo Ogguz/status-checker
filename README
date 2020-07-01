@@ -1,0 +1,5 @@
+A simple go app that checks urls(simple http get request) and if it can not reach it, warns via email.
+
+By default, after every (per url) alive check request, it sleeps for 5 seconds. You can change it from config file.
+
+Please add your email address, pause length and the urls you want to check to config file.
