@@ -2,4 +2,8 @@ A simple go app that checks urls(simple http get request) and if it can not reac
 
 By default, after every (per url) alive check request, it sleeps for 5 seconds. You can change it from config file.
 
-Please add your email address, pause length and the urls you want to check to config file.
+Multiple receivers supported.
+
+Usage:
+
+$ go run main.go send_email.go
