@@ -1,5 +1,6 @@
 {
-  "email" : "kaankahraman44@gmail.com",
+  "email" : "example@gmail.com",
   "sleep" : 5,
-  "link" : ["https://google.com", "https://facebook.com", "https://twitter.com"]
+  "link" : ["https://google.com", "https://facebook.com", "https://twitter.com"],
+  "from" : "info@example.com"
 }
